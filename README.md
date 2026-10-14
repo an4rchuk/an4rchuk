@@ -34,4 +34,6 @@ hobbies: ["Gaming", "Cinema", "Art"]
 
 ![Steam](./metrics.plugin.steam.svg)
 
+![Steam card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true)
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=footer)
