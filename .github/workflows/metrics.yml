@@ -18,7 +18,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
 
-      - name: Steam
+          - name: Steam
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.steam.svg
@@ -27,3 +27,4 @@ jobs:
           plugin_steam: yes
           plugin_steam_token: ${{ secrets.STEAM_TOKEN }}
           plugin_steam_user: ${{ secrets.STEAM_ID }}
+          plugin_steam_sections: recently-played
