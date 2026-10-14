@@ -1,4 +1,14 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=header&text=Welcome!)
+
+## Commit calendar
+
+![Commit calendar](./metrics.plugin.isocalendar.svg)
+
+## Steam
+
+![Steam](./metrics.plugin.steam.svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=footer)
 
 <!--
 **an4rchuk/an4rchuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
