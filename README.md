@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=120)
+![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=180)
 
 [![GitHub](https://img.shields.io/badge/GitHub-an4rchuk-990000?logo=github&logoColor=white)](https://github.com/an4rchuk)
 [![Website](https://img.shields.io/badge/Website-an4rch.uk-990000)](https://an4rch.uk)
@@ -44,4 +44,4 @@ hobbies: ["Gaming", "Cinema", "Art"]
 
 ![Steam card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=150&section=footer)
