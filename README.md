@@ -27,7 +27,7 @@ fields_of_interests:
 
 currently_learning: ["HTML", "Python", "AI Prompting", "Vibe Coding", "Software Development", "3D Modelling"]
 goals_2026: ["Learn about Software for my Software Engineering course at University"]
-hobbies: ["Gaming", "Cinema", "Art"]
+hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
 ```
 
 ## 🚀 Some Tools I Have Used and Learned
