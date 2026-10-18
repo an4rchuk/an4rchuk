@@ -2,8 +2,8 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-an4rchuk-990000?logo=github&logoColor=white)](https://github.com/an4rchuk)
 [![Website](https://img.shields.io/badge/Website-an4rch.uk-990000)](https://an4rch.uk)
-[![Instagram](https://img.shields.io/badge/Instagram-an4rchuk-990000?logo=instagram&logoColor=white)](https://instagram.com/YOUR_INSTAGRAM)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-an4rchuk-990000?logo=huggingface&logoColor=white)](https://huggingface.co/YOUR_HF_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-an4rchuk-990000?logo=instagram&logoColor=white)](https://instagram.com/an4rchuk)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-an4rchuk-990000?logo=huggingface&logoColor=white)](https://huggingface.co/an4rchuk)
 [![Email](https://img.shields.io/badge/Email-an4rch%40an4rch.uk-990000?logo=gmail&logoColor=white)](mailto:an4rch@an4rch.uk)
 
 🔨 Currently building: AN4RCH OS, a custom Arch Linux distro
