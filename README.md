@@ -34,7 +34,7 @@ hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
 
 ![Tools](https://skillicons.dev/icons?i=html,arch,kali,ubuntu,vim,unreal,vercel,wordpress,cloudflare,linux,windows,powershell,vscode,github,raspberrypi,supabase,figma,obsidian,discord,bots,illustrator,photoshop)
 
-![Banner](./banner.gif)
+![Banner](./Banner.gif)
 
 ## 📊 Commit Calendar
 
