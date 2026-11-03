@@ -1,19 +1,21 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=180)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-an4rchuk-990000?logo=github&logoColor=white)](https://github.com/an4rchuk)
-[![Website](https://img.shields.io/badge/Website-an4rch.uk-990000)](https://an4rch.uk)
-[![Instagram](https://img.shields.io/badge/Instagram-an4rchuk-990000?logo=instagram&logoColor=white)](https://instagram.com/an4rchuk)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-an4rchuk-990000?logo=huggingface&logoColor=white)](https://huggingface.co/an4rchuk)
-[![Email](https://img.shields.io/badge/Email-an4rch%40an4rch.uk-990000?logo=gmail&logoColor=white)](mailto:an4rch@an4rch.uk)
+![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=180&section=header)
 
-🔨 Currently building: AN4RCH OS, a custom Arch Linux distro
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&width=600&lines=Web+Developer;Game+Developer;Linux+Enthusiast;Vibe+Coder" alt="Typing SVG" />
+</a>
 
-## 🧑‍💻 A Little Bit About Me and My Interests
+</div>
+
+## 🔨 Currently building
+
+**AN4RCH OS**, a custom Arch Linux distro.
+
+## 🧑‍💻 About me
 
 ```yaml
-name: An4rch
 located_in: United Kingdom
-current_job: Student
 education:
   - "UAL Level 3 Diploma in Games Design"
 company: An4rchUK - Personal Brand
@@ -30,18 +32,65 @@ goals_2026: ["Learn about Software for my Software Engineering course at Univers
 hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
 ```
 
-## 🚀 Some Tools I Have Used and Learned
+## 🚀 Tools I've used and learned
 
-![Tools](https://skillicons.dev/icons?i=html,arch,kali,ubuntu,vim,unreal,vercel,wordpress,cloudflare,linux,windows,powershell,vscode,github,raspberrypi,supabase,figma,obsidian,discord,bots,illustrator,photoshop)
+**Web and dev:**
 
-## 📊 Commit Calendar
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,vscode,github,vercel,supabase,cloudflare,figma,obsidian" />
+</p>
 
-![Commit calendar](./metrics.plugin.isocalendar.svg)
+**Systems:**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=arch,kali,ubuntu,linux,windows,powershell,vim,raspberrypi" />
+</p>
+
+**Creative and games:**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=unreal,illustrator,photoshop,wordpress,discord,bots" />
+</p>
+
+## 📊 Commit calendar
+
+<p align="center">
+  <img src="./metrics.plugin.isocalendar.svg" alt="Commit calendar" />
+</p>
+
+## 🧊 3D contribution graph
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" />
+</p>
+
+## 🐍 Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/an4rchuk/an4rchuk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
+</p>
 
 ## 🎮 Steam
 
-![Steam](./metrics.plugin.steam.svg)
+<p align="center">
+  <img src="./metrics.plugin.steam.svg" alt="Steam" />
+  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true" alt="Steam card" />
+</p>
 
-![Steam card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true)
+## 📫 Contact
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=150&section=footer)
+<div align="center">
+
+| Website | Instagram | Hugging Face | Email |
+|:---:|:---:|:---:|:---:|
+| [![Website](https://img.shields.io/badge/an4rch.uk-990000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://an4rch.uk) | [![Instagram](https://img.shields.io/badge/an4rchuk-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/an4rchuk) | [![Hugging Face](https://img.shields.io/badge/an4rchuk-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)](https://huggingface.co/an4rchuk) | [![Email](https://img.shields.io/badge/an4rch%40an4rch.uk-990000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:an4rch@an4rch.uk) |
+
+[![GitHub](https://img.shields.io/badge/GitHub-an4rchuk-990000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/an4rchuk)
+
+</div>
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer)
+
+</div>
