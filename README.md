@@ -103,6 +103,10 @@
 <br>
 
 <p align="center">
+  <img src="./assets/gaming.png" width="100%" alt="Gaming" />
+</p>
+
+<p align="center">
   <img src="./metrics.plugin.steam.svg" alt="Steam" />
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true" alt="Steam card" />
 </p>
