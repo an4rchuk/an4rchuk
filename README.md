@@ -84,10 +84,3 @@ hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer)
 
 </div>
-</div>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer)
-
-</div>
