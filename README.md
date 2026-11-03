@@ -1,6 +1,8 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=180&section=header)
+<img src="./assets/header.png" width="100%" alt="Header" />
+
+<img src="./assets/about.png" width="100%" alt="About me" />
 
 [![GitHub](https://img.shields.io/badge/GitHub-an4rchuk-990000?logo=github&logoColor=white)](https://github.com/an4rchuk)
 [![Website](https://img.shields.io/badge/Website-an4rch.uk-990000)](https://an4rch.uk)
@@ -9,30 +11,6 @@
 [![Email](https://img.shields.io/badge/Email-an4rch%40an4rch.uk-990000?logo=gmail&logoColor=white)](mailto:an4rch@an4rch.uk)
 
 </div>
-
-## 🔨 Currently building
-
-**AN4RCH OS**, a custom Arch Linux distro.
-
-## 🧑‍💻 About me
-
-```yaml
-located_in: United Kingdom
-education:
-  - "UAL Level 3 Diploma in Games Design"
-company: An4rchUK - Personal Brand
-
-fields_of_interests:
-  - "Web Development"
-  - "Game Development"
-  - "Linux"
-  - "Software"
-  - "Coding"
-
-currently_learning: ["HTML", "Python", "AI Prompting", "Vibe Coding", "Software Development", "3D Modelling"]
-goals_2026: ["Learn about Software for my Software Engineering course at University"]
-hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
-```
 
 ## 🚀 Tools I've used and learned
 
@@ -66,8 +44,6 @@ hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
   <img src="./profile-3d-contrib/profile-customize.svg" alt="3D contribution graph" />
 </p>
 
-## 🐍 Contribution snake
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/an4rchuk/an4rchuk/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
@@ -78,9 +54,3 @@ hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
   <img src="./metrics.plugin.steam.svg" alt="Steam" />
   <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true" alt="Steam card" />
 </p>
-
-<div align="center">
-
-![footer](https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer)
-
-</div>
