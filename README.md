@@ -46,6 +46,7 @@
 </div>
 
 <br>
+<br>
 
 <p align="center">
   <img src="./assets/contributions.png" width="100%" alt="Contributions" />
@@ -55,10 +56,13 @@
   <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution graph" />
 </p>
 
+<br>
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/an4rchuk/an4rchuk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
 </p>
 
+<br>
 <br>
 
 <p align="center">
@@ -100,6 +104,7 @@
   </table>
 </div>
 
+<br>
 <br>
 
 <p align="center">
