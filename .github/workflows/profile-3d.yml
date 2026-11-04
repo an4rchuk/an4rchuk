@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 18 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 permissions:
   contents: write
@@ -23,6 +20,18 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
           SETTING_JSON: profile-3d-contrib-settings.json
+
+      - name: Make the growing animation loop
+        run: |
+          python3 - <<'PY'
+          import re
+          p = "profile-3d-contrib/profile-customize.svg"
+          s = open(p).read()
+          pat = re.compile(r'values="([^";]+);([^";]+)" dur="3s" repeatCount="1"')
+          s, n = pat.subn(lambda m: f'values="{m[1]};{m[2]};{m[2]}" keyTimes="0;0.3;1" dur="10s" repeatCount="indefinite"', s)
+          open(p, "w").write(s)
+          print("looped", n, "animations")
+          PY
 
       - name: Commit and push
         run: |
