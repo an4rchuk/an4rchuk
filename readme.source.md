@@ -1,90 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=180)
 
-```aura width=150 height=44 link="https://github.com/an4rchuk" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/github/ff3333"
-  text="GitHub"
-  backgroundColor="#000000"
-  width={150}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ff3333' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#ff6666' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#ff3333' },
-  ]}
-/>
-```
-
-```aura width=150 height=44 link="https://an4rch.uk" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/archlinux/ff3333"
-  text="Website"
-  backgroundColor="#000000"
-  width={150}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ff3333' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#ff6666' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#ff3333' },
-  ]}
-/>
-```
-
-```aura width=150 height=44 link="https://instagram.com/an4rchuk" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/instagram/ff3333"
-  text="Instagram"
-  backgroundColor="#000000"
-  width={150}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ff3333' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#ff6666' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#ff3333' },
-  ]}
-/>
-```
-
-```aura width=150 height=44 link="https://huggingface.co/an4rchuk" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/huggingface/ff3333"
-  text="Hugging Face"
-  backgroundColor="#000000"
-  width={150}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ff3333' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#ff6666' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#ff3333' },
-  ]}
-/>
-```
-
-```aura width=150 height=44 link="mailto:an4rch@an4rch.uk" inline align=center
-<SocialMediaButton
-  icon="https://cdn.simpleicons.org/gmail/ff3333"
-  text="Email"
-  backgroundColor="#000000"
-  width={150}
-  height={44}
-  gradientStops={[
-    { offset: '0%', color: '#ff3333' },
-    { offset: '30%', color: '#000000' },
-    { offset: '60%', color: '#ff6666' },
-    { offset: '80%', color: '#000000' },
-    { offset: '100%', color: '#ff3333' },
-  ]}
-/>
-```
-
 ```aura width=860 height=200
 (function() {
  var userName = github.user.name || github.user.login;
@@ -315,6 +230,36 @@
    </div>
  );
 })()
+```
+
+```aura width=150 height=44 link="https://github.com/an4rchuk" inline align=center
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
+  <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>GitHub</div>
+</div>
+```
+
+```aura width=150 height=44 link="https://an4rch.uk" inline align=center
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
+  <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>Website</div>
+</div>
+```
+
+```aura width=150 height=44 link="https://instagram.com/an4rchuk" inline align=center
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
+  <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>Instagram</div>
+</div>
+```
+
+```aura width=150 height=44 link="https://huggingface.co/an4rchuk" inline align=center
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
+  <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>Hugging Face</div>
+</div>
+```
+
+```aura width=150 height=44 link="mailto:an4rch@an4rch.uk" inline align=center
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
+  <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>Email</div>
+</div>
 ```
 
 🔨 Currently building: AN4RCH OS, a custom Arch Linux distro
