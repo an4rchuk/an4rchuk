@@ -51,7 +51,7 @@
 />
 ```
 
-```aura width=150 height=44 link="https://huggingface.co/YOUR_HF_USERNAME" inline align=center
+```aura width=150 height=44 link="https://huggingface.co/an4rchuk" inline align=center
 <SocialMediaButton
   icon="https://cdn.simpleicons.org/huggingface/ff3333"
   text="Hugging Face"
