@@ -1,7 +1,11 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=990000&height=180)
 
 ```aura width=830 height=240
-<div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', padding: 36, backgroundColor: '#0a0a0f', backgroundImage: 'radial-gradient(circle at 15% 85%, rgba(255,51,51,0.35), rgba(10,10,15,0) 55%)', borderRadius: 24, border: '1px solid #3a0a0a' }}>
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', alignItems: 'center', padding: 36, backgroundColor: '#0a0a0f', borderRadius: 24, border: '1px solid #3a0a0a' }}>
+  <style>{`@keyframes glowPulse { 0%, 100% { opacity: 0.25; } 50% { opacity: 0.7; } } #glow { animation: glowPulse 4s ease-in-out infinite; }`}</style>
+  <svg width="830" height="240" style={{ position: 'absolute', top: 0, left: 0 }}>
+    <ellipse id="glow" cx="140" cy="200" rx="300" ry="160" fill="#ff3333" />
+  </svg>
   <img src="https://github.com/an4rchuk.png" width={150} height={150} style={{ borderRadius: 75, border: '4px solid #ff3333' }} />
   <div style={{ display: 'flex', flexDirection: 'column', marginLeft: 40 }}>
     <div style={{ display: 'flex', fontSize: 52, fontWeight: 700, color: '#ffffff' }}>An4rch</div>
@@ -24,37 +28,57 @@
 ```
 
 ```aura width=150 height=50 link="https://github.com/an4rchuk" inline align=center
-<div style={{ display: 'flex', width: '100%', height: '100%', padding: 2, borderRadius: 999, backgroundImage: 'linear-gradient(90deg, #ff3333, #990000, #ff3333)' }}>
-  <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', borderRadius: 999, backgroundColor: '#0a0a0f', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>GitHub</div>
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center' }}>
+  <style>{`@keyframes edgePulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } } #edge { animation: edgePulse 2.5s ease-in-out infinite; }`}</style>
+  <svg width="150" height="50" style={{ position: 'absolute', top: 0, left: 0 }}>
+    <rect id="edge" x="1" y="1" width="148" height="48" rx="24" fill="none" stroke="#ff3333" strokeWidth="2" />
+  </svg>
+  <div style={{ display: 'flex', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>GitHub</div>
 </div>
 ```
 
 ```aura width=150 height=50 link="https://an4rch.uk" inline align=center
-<div style={{ display: 'flex', width: '100%', height: '100%', padding: 2, borderRadius: 999, backgroundImage: 'linear-gradient(90deg, #ff3333, #990000, #ff3333)' }}>
-  <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', borderRadius: 999, backgroundColor: '#0a0a0f', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Website</div>
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center' }}>
+  <style>{`@keyframes edgePulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } } #edge { animation: edgePulse 2.5s ease-in-out infinite; }`}</style>
+  <svg width="150" height="50" style={{ position: 'absolute', top: 0, left: 0 }}>
+    <rect id="edge" x="1" y="1" width="148" height="48" rx="24" fill="none" stroke="#ff3333" strokeWidth="2" />
+  </svg>
+  <div style={{ display: 'flex', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Website</div>
 </div>
 ```
 
 ```aura width=150 height=50 link="https://instagram.com/an4rchuk" inline align=center
-<div style={{ display: 'flex', width: '100%', height: '100%', padding: 2, borderRadius: 999, backgroundImage: 'linear-gradient(90deg, #ff3333, #990000, #ff3333)' }}>
-  <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', borderRadius: 999, backgroundColor: '#0a0a0f', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Instagram</div>
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center' }}>
+  <style>{`@keyframes edgePulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } } #edge { animation: edgePulse 2.5s ease-in-out infinite; }`}</style>
+  <svg width="150" height="50" style={{ position: 'absolute', top: 0, left: 0 }}>
+    <rect id="edge" x="1" y="1" width="148" height="48" rx="24" fill="none" stroke="#ff3333" strokeWidth="2" />
+  </svg>
+  <div style={{ display: 'flex', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Instagram</div>
 </div>
 ```
 
 ```aura width=150 height=50 link="https://huggingface.co/YOUR_HF_USERNAME" inline align=center
-<div style={{ display: 'flex', width: '100%', height: '100%', padding: 2, borderRadius: 999, backgroundImage: 'linear-gradient(90deg, #ff3333, #990000, #ff3333)' }}>
-  <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', borderRadius: 999, backgroundColor: '#0a0a0f', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Hugging Face</div>
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center' }}>
+  <style>{`@keyframes edgePulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } } #edge { animation: edgePulse 2.5s ease-in-out infinite; }`}</style>
+  <svg width="150" height="50" style={{ position: 'absolute', top: 0, left: 0 }}>
+    <rect id="edge" x="1" y="1" width="148" height="48" rx="24" fill="none" stroke="#ff3333" strokeWidth="2" />
+  </svg>
+  <div style={{ display: 'flex', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Hugging Face</div>
 </div>
 ```
 
 ```aura width=150 height=50 link="mailto:an4rch@an4rch.uk" inline align=center
-<div style={{ display: 'flex', width: '100%', height: '100%', padding: 2, borderRadius: 999, backgroundImage: 'linear-gradient(90deg, #ff3333, #990000, #ff3333)' }}>
-  <div style={{ display: 'flex', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center', borderRadius: 999, backgroundColor: '#0a0a0f', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Email</div>
+<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', alignItems: 'center', justifyContent: 'center' }}>
+  <style>{`@keyframes edgePulse { 0%, 100% { opacity: 0.4; } 50% { opacity: 1; } } #edge { animation: edgePulse 2.5s ease-in-out infinite; }`}</style>
+  <svg width="150" height="50" style={{ position: 'absolute', top: 0, left: 0 }}>
+    <rect id="edge" x="1" y="1" width="148" height="48" rx="24" fill="none" stroke="#ff3333" strokeWidth="2" />
+  </svg>
+  <div style={{ display: 'flex', color: '#ffffff', fontSize: 17, fontWeight: 600 }}>Email</div>
 </div>
 ```
 
 ```aura width=830 height=250
-<div style={{ display: 'flex', flexDirection: 'column', width: '100%', height: '100%', justifyContent: 'center', padding: 28, backgroundColor: '#0a0a0f', backgroundImage: 'radial-gradient(circle at 90% 10%, rgba(255,51,51,0.25), rgba(10,10,15,0) 50%)', borderRadius: 24, border: '1px solid #3a0a0a' }}>
+<div style={{ display: 'flex', flexDirection: 'column', width: '100%', height: '100%', justifyContent: 'center', padding: 28, backgroundColor: '#0a0a0f', borderRadius: 24, border: '1px solid #3a0a0a' }}>
   <div style={{ display: 'flex', fontSize: 14, color: '#ff3333', fontWeight: 700, marginBottom: 18 }}>TECH STACK</div>
   <div style={{ display: 'flex', alignItems: 'center', marginBottom: 12 }}>
     <div style={{ display: 'flex', width: 150, fontSize: 15, color: '#ff8a8a', fontWeight: 700 }}>LANGUAGES</div>
