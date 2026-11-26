@@ -1,121 +1,47 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=150&section=header" width="100%" />
-</p>
+![header](https://capsule-render.vercel.app/api?type=waving\&color=990000\&height=180)
 
 <p align="center">
-  <img src="./assets/header.png" width="100%" alt="Header" />
+<a href="https://github.com/an4rchuk"><img src="./.github/assets/readme-aura-component-0-5abbad07.svg" width="150" height="44" /></a><a href="https://an4rch.uk"><img src="./.github/assets/readme-aura-component-1-39fa99ec.svg" width="150" height="44" /></a><a href="https://instagram.com/an4rchuk"><img src="./.github/assets/readme-aura-component-2-25f062de.svg" width="150" height="44" /></a><a href="https://huggingface.co/YOUR_HF_USERNAME"><img src="./.github/assets/readme-aura-component-3-682c311c.svg" width="150" height="44" /></a><a href="mailto:an4rch@an4rch.uk"><img src="./.github/assets/readme-aura-component-4-d4b6a1b8.svg" width="150" height="44" /></a>
 </p>
 
-<br>
+🔨 Currently building: AN4RCH OS, a custom Arch Linux distro
 
-<p align="center">
-  <img src="./assets/about.png" width="100%" alt="About me" />
-</p>
+## 🧑‍💻 A Little Bit About Me and My Interests
 
-<br>
+```yaml
+name: An4rch
+located_in: United Kingdom
+current_job: Student
+education:
+  - "UAL Level 3 Diploma in Games Design"
+company: An4rchUK - Personal Brand
 
-<div align="center">
-<table border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="170" align="center">
-      <img src="./assets/tile-left.png" width="140px" />
-    </td>
-    <td align="center">
-      <table border="0" cellspacing="0" cellpadding="8">
-        <tr>
-          <th>GitHub</th>
-          <th>Website</th>
-          <th>Instagram</th>
-          <th>Hugging Face</th>
-          <th>Email</th>
-        </tr>
-        <tr>
-          <td align="center"><br><a href="https://github.com/an4rchuk" title="GitHub"><img src="https://cdn.simpleicons.org/github/ffffff" alt="GitHub" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://an4rch.uk" title="Website"><img src="https://cdn.simpleicons.org/googlechrome/ff4d4d" alt="Website" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://instagram.com/an4rchuk" title="Instagram"><img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="https://huggingface.co/an4rchuk" title="Hugging Face"><img src="https://cdn.simpleicons.org/huggingface" alt="Hugging Face" width="40px" height="40px"></a><br><br></td>
-          <td align="center"><br><a href="mailto:an4rch@an4rch.uk" title="Email"><img src="https://cdn.simpleicons.org/gmail/EA4335" alt="Email" width="40px" height="40px"></a><br><br></td>
-        </tr>
-      </table>
-    </td>
-    <td width="170" align="center">
-      <img src="./assets/tile-right.png" width="140px" />
-    </td>
-  </tr>
-</table>
-</div>
+fields_of_interests:
+  - "Web Development"
+  - "Game Development"
+  - "Linux"
+  - "Software"
+  - "Coding"
 
-<br>
-<br>
+currently_learning: ["HTML", "Python", "AI Prompting", "Vibe Coding", "Software Development", "3D Modelling"]
+goals_2026: ["Learn about Software for my Software Engineering course at University"]
+hobbies: ["Gaming", "Cinema", "Art", "Reading Manga", "Music"]
+```
 
-<p align="center">
-  <img src="./assets/contributions.png" width="100%" alt="Contributions" />
-</p>
+## 🚀 Some Tools I Have Used and Learned
 
-<p align="center">
-  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D contribution graph" />
-</p>
+![Tools](https://skillicons.dev/icons?i=html,arch,kali,ubuntu,vim,unreal,vercel,wordpress,cloudflare,linux,windows,powershell,vscode,github,raspberrypi,supabase,figma,obsidian,discord,bots,illustrator,photoshop)
 
-<br>
+![Banner](./Banner.GIF)
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/an4rchuk/an4rchuk/output/github-contribution-grid-snake.svg" width="100%" alt="Contribution snake" />
-</p>
+## 📊 Commit Calendar
 
-<br>
-<br>
+![Commit calendar](./metrics.plugin.isocalendar.svg)
 
-<p align="center">
-  <img src="./assets/skills.png" width="100%" alt="Skills" />
-</p>
+## 🎮 Steam
 
-<div align="center">
-  <table width="100%">
-    <tr>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=html" width="40px"/><br>HTML</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=py" width="40px"/><br>Python</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=vscode" width="40px"/><br>VS Code</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=github" width="40px"/><br>GitHub</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=vercel" width="40px"/><br>Vercel</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=supabase" width="40px"/><br>Supabase</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=cloudflare" width="40px"/><br>Cloudflare</td>
-      <td align="center" width="12%"><img src="https://skillicons.dev/icons?i=wordpress" width="40px"/><br>WordPress</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=arch" width="40px"/><br>Arch</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=kali" width="40px"/><br>Kali</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=ubuntu" width="40px"/><br>Ubuntu</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=linux" width="40px"/><br>Linux</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=windows" width="40px"/><br>Windows</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=powershell" width="40px"/><br>PowerShell</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=vim" width="40px"/><br>Vim</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=raspberrypi" width="40px"/><br>Raspberry Pi</td>
-    </tr>
-    <tr>
-      <td align="center"><img src="https://skillicons.dev/icons?i=unreal" width="40px"/><br>Unreal</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=blender" width="40px"/><br>Blender</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=figma" width="40px"/><br>Figma</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=illustrator" width="40px"/><br>Illustrator</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=photoshop" width="40px"/><br>Photoshop</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=obsidian" width="40px"/><br>Obsidian</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=discord" width="40px"/><br>Discord</td>
-      <td align="center"><img src="https://skillicons.dev/icons?i=bots" width="40px"/><br>Bots</td>
-    </tr>
-  </table>
-</div>
+![Steam](./metrics.plugin.steam.svg)
 
-<br>
-<br>
+![Steam card](https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840\&show_recent_game_bg=true)
 
-<p align="center">
-  <img src="./assets/gaming.png" width="100%" alt="Gaming" />
-</p>
-
-<p align="center">
-  <img src="./metrics.plugin.steam.svg" alt="Steam" />
-  <img src="https://github-readme-steam-card.vercel.app/status/?steamid=76561199800756840&show_recent_game_bg=true" alt="Steam card" />
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=990000&height=120&section=footer" width="100%" />
-</p>
+![footer](https://capsule-render.vercel.app/api?type=waving\&color=990000\&height=150\&section=footer)
