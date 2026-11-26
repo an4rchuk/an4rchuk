@@ -232,12 +232,6 @@
 })()
 ```
 
-```aura width=150 height=44 link="https://github.com/an4rchuk" inline align=center
-<div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
-  <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>GitHub</div>
-</div>
-```
-
 ```aura width=150 height=44 link="https://an4rch.uk" inline align=center
 <div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
   <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>Website</div>
@@ -250,7 +244,7 @@
 </div>
 ```
 
-```aura width=150 height=44 link="https://huggingface.co/an4rchuk" inline align=center
+```aura width=150 height=44 link="https://huggingface.co/YOUR_HF_USERNAME" inline align=center
 <div style={{ display: 'flex', position: 'relative', width: '100%', height: '100%', background: '#000000', border: '2px solid #ff3333', borderRadius: 22 }}>
   <div style={{ display: 'flex', position: 'absolute', top: 0, left: 0, right: 0, bottom: 0, alignItems: 'center', justifyContent: 'center', color: '#ffffff', fontSize: 16, fontWeight: 700, lineHeight: 1 }}>Hugging Face</div>
 </div>
